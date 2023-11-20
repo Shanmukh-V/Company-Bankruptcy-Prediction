@@ -1,1 +1,3 @@
 # Company-Bankruptcy-Prediction
+In an era of increasingly sophisticated stock trading, the ability of investment companies to understand and predict the risk of bankruptcy of a company is not only a competitive advantage but also a necessity. for an Investment Company, understands the importance of digging this information in depth. Protecting our clients' investments, as well as ensuring creditors, employees and management of the companies we invest in have a clear picture of their financial health is a top business priority.
+In this project we will use various predictive models to see how accurate they are in detecting whether we can correctly predict which companies will face bankruptcy in the future.
